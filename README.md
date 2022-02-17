@@ -1,0 +1,1 @@
+# Foosball winning rate
