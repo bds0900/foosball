@@ -1,4 +1,6 @@
+use tokio_postgres::{NoTls, Error};
 
-fn main() {
-    println!("Hello, world!");
+#[tokio::main]
+async fn main() -> Result<(), Error>  {
+    
 }
